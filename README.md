@@ -1,64 +1,16 @@
-# Pawber Uber para Mascotas
+# petsitter_new
 
-**👨‍💻 Integrantes del equipo**
+A new Flutter project.
 
-  - Frías Gutiérrez Mario (Diseñador)
-  - Saucedo Segura César Máximo (Programador)
-  - Trejo Rosas Aaron (Tester)
-  - Vargas Olivera Samanta (Analista)
+## Getting Started
 
-Pawber es una aplicación móvil desarrollada en Flutter que conecta dueños de mascotas con cuidadores profesionales, ofreciendo un servicio similar a Uber para el cuidado de animales domésticos.
+This project is a starting point for a Flutter application.
 
-**📱 Características Principales**
+A few resources to get you started if this is your first Flutter project:
 
-- 📍 Búsqueda geolocalizada de cuidadores cercanos
-- 🗓️ Reservas en tiempo real con confirmación inmediata
-- 🐶 Perfiles detallados de mascotas con historial médico
-- 💳 Sistema de pagos integrado y seguro
-- ⭐ Sistema de calificaciones y reseñas
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-
-**🛠️ Tecnologías Utilizadas**
-
-
-	Frontend
-	
-	- Flutter 3.0+ - Framework multiplataforma
-	- Dart 3.0+ - Lenguaje de programación
-	- GetX - Gestión de estado y navegación
-	- Google Maps Flutter - Mapas y geolocalización
-	- Provider - Gestión de estado adicional
-  
-
-	Backend
-	
-	- Firebase - BaaS (Backend as a Service)
-	- Firebase Auth - Autenticación
-	- Cloud Firestore - Base de datos
-	- Cloud Storage - Almacenamiento de archivos
-	- Cloud Functions - Funciones serverless
-	- Firebase Cloud Messaging - Notificaciones push
-   
-
-	APIs y Servicios Externos
-	
-	- Google Maps Platform - Mapas y rutas
-	- Stripe/PayPal - Procesamiento de pagos
-	- Twilio - Comunicaciones (SMS/llamadas)
-
-	 
-
-**📋 Prerrequisitos**
-
-	  Para Desarrollo
-		
-	- Flutter SDK (última versión estable)
-	- Android Studio o VS Code
-	- Emulador Android o Dispositivo físico
-	- iOS (opcional, para desarrollo iOS)
-
-Cuentas Necesarias
-
-- Google Cloud Console - Para Google Maps API
-- Firebase Console - Para backend
-- Stripe/PayPal - Para pagos (opcional)
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
